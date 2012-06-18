@@ -1,9 +1,9 @@
 <?php
 
-function 無() {
-  print("hey there!\n");
+function ☎() {
+  print("calling!\n");
 }
 
-無();
+☎();
 
 ?>
